@@ -96,8 +96,8 @@ Frontend runs on `http://localhost:5173`
 
 | Role | Email | Password |
 |---|---|---|
-| User | user@demo.com | user123 |
-| Admin | admin@demo.com | admin123 |
+
+| Admin | priyan2@gmail.com | 12345678 |
 
 ---
 
